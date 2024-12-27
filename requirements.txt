@@ -1,0 +1,3 @@
+aiogram
+asyncio
+nest_asyncio

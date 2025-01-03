@@ -9,7 +9,7 @@
 
 - python
 - Telegram Bot API token (get it from [BotFather](https://t.me/botfather))
-- Your account ID get it from https://t.me/jujinidbot
+- Your account ID (get it from https://t.me/ArynIDBot)
 - `aiogram` lib
 
 ## how to setup
